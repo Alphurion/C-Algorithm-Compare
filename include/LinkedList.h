@@ -49,7 +49,7 @@ public:
   void swap(Iterator &lhs, Iterator &rhs); // O(1)
   // Sorting Functions
   void mergeSort();
-  void heapSort();
+  void bubbleSort();
 };
 
 #endif
